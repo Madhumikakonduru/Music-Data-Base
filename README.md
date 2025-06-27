@@ -1,4 +1,5 @@
 🎵 Music Database Insights 
+
 This project explores music purchase data to uncover customer behavior, genre popularity, and revenue trends using SQL analytics.
 
 📊 Key Analyses 
