@@ -30,3 +30,4 @@ Music store data covering customers, invoices, tracks, genres, artists, albums, 
 
 
 
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/965ccd1e-e850-425a-97bc-0ef24f74a195)
