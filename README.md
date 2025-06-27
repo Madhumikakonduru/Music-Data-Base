@@ -29,4 +29,4 @@ Music store data covering customers, invoices, tracks, genres, artists, albums, 
 • Genre preference varies by region — Argentina favors Alternative & Punk over Rock.
 
 
-![music_erd_with_fk](https://github.com/user-attachments/assets/8c8681cc-f6ef-4c41-abe1-cd88db2b9039)
+
